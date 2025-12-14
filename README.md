@@ -6,7 +6,7 @@ Accepted by **Ieee Transactions on Cybernetics (TCYB)**.  🔗 [**DOI**](https:/
 
 If you find our work helpful, please consider citing:
 
-"""
+```bibtex
 @ARTICLE{zhang2025TCYB,
   author={Zhang, Yiqun and Chen, Xinxi and Zhao, Lang and Ji, Yuzhu and Liu, Peng and Cheung, Yiu-Ming},
   journal={IEEE Transactions on Cybernetics}, 
@@ -16,4 +16,3 @@ If you find our work helpful, please consider citing:
   number={},
   pages={1-14},
   doi={10.1109/TCYB.2025.3635888}}
-"""
